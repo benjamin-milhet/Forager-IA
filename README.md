@@ -17,6 +17,39 @@ java -jar Serveur.jar
 - Exécuter le porgramme Java
 
 
+## Règles
+
+### Déplacement
+- Haut
+- Bas
+- Droite
+- Gauche
+
+### Ressources
+| Nom | Coups de pioches |
+| :---------------:|:---------------:|
+| Arbre | 1 |
+| Rocher | 2 |
+| Fer | 3 |
+| Or | 3 |
+
+### Construction
+- Fourneau -> Faire fondre les minerais
+- Forge -> Fabriquer des pièces d'or
+
+#### Recettes du fourneau
+| Ingrédients | Résultat |
+| :---------------:|:---------------:|
+| 2 bois | 1 charbon |
+| 1 charbon + 2 minerais de fer | 1 lingot de fer |
+| 1 charbon + 2 minerais d'or | 1 lingot d'or |
+
+#### Recette de la forge
+| Ingrédients | Résultat |
+| :---------------:|:---------------:|
+| 2 lingots d'or | 1 pièce d'or |
+
+
 ## Rendu final
 
 ### Menu du jeu
