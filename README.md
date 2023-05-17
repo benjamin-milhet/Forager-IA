@@ -2,6 +2,8 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+L'objectif de ce projet est de réaliser des automates pour pouvoir terminer le jeu vidéo forager grace à nos connaissances de recherche opérationnelle et des algorithmes de plus court chemin.
+
 ## Membre du groupe
  - Benjamin MILHET
 
