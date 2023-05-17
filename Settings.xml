@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Settings>
+  <SizeOfTheMap>50</SizeOfTheMap>
+  <SeedOfTheMap>0</SeedOfTheMap>
+  <AIControled>true</AIControled>
+  <QuantityOfRessources>0.4</QuantityOfRessources>
+  <WeightTree>8</WeightTree>
+  <WeightRock>4</WeightRock>
+  <WeightIron>1</WeightIron>
+  <WeightGold>1</WeightGold>
+  <BaseTime>10</BaseTime>
+</Settings>
